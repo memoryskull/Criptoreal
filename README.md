@@ -1,3 +1,8 @@
+
+[![bikini-1.png](https://i.postimg.cc/CK2kCbB0/bikini-1.png)](https://postimg.cc/CZjRSBsr)
+
+
+
 Criptoreal Core 1.1.0
 ===============================
 
